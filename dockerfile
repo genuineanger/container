@@ -1,7 +1,7 @@
 # Use the official Nginx base image
 FROM nginx:latest
 
-# Copy the default HTML file to the Nginx default document rootss
+# Copy the default HTML file to the Nginx default document rootsssss
 COPY index.html /usr/share/nginx/html/
 
 # Expose port 80 for web traffic
